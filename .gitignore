@@ -1,0 +1,9 @@
+Vagrantfile
+pip-selfcheck.json
+.Python
+.vagrant
+bin/
+lib/
+include/
+.DS_Store
+__pycache__/
